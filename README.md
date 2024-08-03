@@ -4,19 +4,19 @@ This is a simple Employee Management System API using Java with Spring Boot. It 
 
 ## Completed Tasks
 
-- Project Setup
-- Database Design
-- Core Functionality
-- API Documentation using Swagger
-- Security Implementation
-- Unit Testing on the repository using JUnit
-- Exception Handling on the repository
+✅ Project Setup
+✅ Database Design
+✅ Core Functionality
+✅ API Documentation using Swagger
+✅ Security Implementation
+✅ Unit Testing on the repository using JUnit
+✅ Exception Handling on the repository
 
-## Setup Instructions
+## Setup Instructions 🔧
 
 ### Download the Source Code
 
-1. Clone the repository:
+1. Clone the repository: `git clone https://github.com/Ethanlyt/ems-repo.git`
 
 ### Setup Database
 
