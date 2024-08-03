@@ -4,13 +4,13 @@ This is a simple Employee Management System API using Java with Spring Boot. It 
 
 ## Completed Tasks
 
-✅ Project Setup
-✅ Database Design
-✅ Core Functionality
-✅ API Documentation using Swagger
-✅ Security Implementation
-✅ Unit Testing on the repository using JUnit
-✅ Exception Handling on the repository
+✅ Project Setup  
+✅ Database Design  
+✅ Core Functionality  
+✅ API Documentation using Swagger  
+✅ Security Implementation  
+✅ Unit Testing on the repository using JUnit  
+✅ Exception Handling on the repository  
 
 ## Setup Instructions 🔧
 
